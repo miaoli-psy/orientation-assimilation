@@ -107,7 +107,8 @@ Two responses per trial, **always in this order** (not counterbalanced across pa
 
 1. **Numerosity** — numeric keypad, keys **1–9**. On-screen prompt is just `?`.
 2. **Orientation reproduction** — a row of vertical bars appears at screen centre, one per reported count, spaced **3.2° centre-to-centre** (fixed, independent of the peripheral spacing that trial). Controls:
-   - **← / →** — rotate the currently selected bar by **1°** (CCW / CW)
+   - **left/right** — rotate the currently selected bar by **1°** (CCW / CW)
+   - **up/down** — rotate the currently selected bar by **0.1°** (CCW / CW)
    - **Space** — move the selection to the next bar
    - **Enter** — confirm; disabled until at least one bar has been rotated
    - Participants may adjust more than one bar even though only one was physically tilted.
